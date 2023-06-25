@@ -68,6 +68,7 @@ awesome-langchain 中文版
 - [Langchain Service](https://github.com/kyrolabs/langchain-service) ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social): 带有Qdrant向量存储和Kong网关的Langchain服务
 - [Lanarky](https://github.com/ajndkr/lanarky) ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social): 🚢 使用FastAPI快速部署生产就绪的LLM项目
 - [Dify](https://github.com/langgenius/dify) ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social): 一个API用于插件和数据集，一个界面用于提示工程和视觉操作，所有这些都用于创建强大的AI应用。
+- [FastGPT](https://github.com/c121914yu/FastGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/c121914yu/FastGPT?style=social)  :一个gpt服务,支持各种本地数据集
 - [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers) ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social) : 在cloudflare上的LangchainJS worker
 - [Chainlit](https://github.com/Chainlit/chainlit) ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social) : 在几分钟内构建Python LLM应用 ⚡️
 - [Zep](https://github.com/getzep/zep) ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social): 一个用于LLM / 聊天机器人应用的长期记忆存储
@@ -111,7 +112,7 @@ awesome-langchain 中文版
 ## 开源项目
 
 ### 知识管理
-- [Quiver](https://github.com/StanGirard/quiver) ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social): 将你的大脑知识倾倒入你的 GenerativeAI Vault
+- [Quiver](https://github.com/StanGirard/quiver) ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social): 你的第二大脑，将你的知识倾倒入你的 GenerativeAI 
 - [DocsGPT](https://github.com/arc53/docsgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt?style=social): 基于GPT 的聊天，用于文档搜索和帮助。
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt) ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social): 为你的文档提供准确的答案和即时引用。
 - [Knowledge](https://github.com/KnowledgeCanvas/knowledge) ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social): Knowledge 是一个工具，用于保存，搜索，访问和探索你所有喜欢的网站，文档和文件。
