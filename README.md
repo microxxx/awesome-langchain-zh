@@ -32,7 +32,7 @@ awesome-langchain 中文版
 - LangChainHub[29]: 收集所有对于使用LangChain原始概念（如提示，链和代理）有用的工件的集合。LangChainHub的灵感来自于Hugging Face Hub，它是一个集合，包含所有对于使用LangChain原始概念（如提示，链和代理）有用的工件。这个仓库的目标是成为分享和发现高质量提示，链和代理的中心资源，这些元素结合在一起形成复杂的LLM应用。我们希望这个仓库能够开始收集提示，并期待LangChain社区能够增加这个集合。我们希望不久后能够扩展到链和代理。
 
 ## 工具
----------------
+
 ### 低代码
 - Langflow[30]: LangFlow是一个为LangChain设计的用户界面，使用react-flow设计，通过拖放组件和聊天框，可以轻松地进行实验和原型流程。
 - Flowise - LangchainJS UI[31]: Flowise是一个拖放用户界面，可以使用LangchainJS构建自定义的LLM流程。
@@ -109,7 +109,7 @@ awesome-langchain 中文版
 - Graphsignal[79]: 针对 AI 代理和 LLM 驱动的应用的可观察性。在生产中追踪，监控和调试 LangChain。
 
 ## 开源项目
--------
+
 ### 知识管理
 - Quiver[80]: 将你的大脑知识倾倒入你的 GenerativeAI Vault
 - DocsGPT[81]: GPT 动力的聊天，用于文档搜索和帮助。
@@ -158,7 +158,7 @@ awesome-langchain 中文版
 - MindGeniusAI[122]: 用 ChatGPT 自动生成 MindMap
 
 ## 学习
------
+
 ### 笔记本
 - Langchain 教程[123]: 对 LangChain 库的概述和教程
 - LangChain 中文入门指南[124]: 面向初学者的中文 LangChain 教程
@@ -208,7 +208,7 @@ awesome-langchain 中文版
 - 用 LangChain 让你的 GDrive 拥有 GPT 功能[164]
 
 ## 替代品
-----
+
 - Transformers Agents[165]：在 transformers 的基础上提供自然语言 API
 - LlamaIndex[166]：为你的 LLM 提供一个集中接口来连接外部数据。
 - Botpress[167]：构建聊天机器人的构建块
@@ -236,7 +236,7 @@ awesome-langchain 中文版
 - OpenDAN[190]：开源的个人 AI 操作系统，将各种 AI 模块整合在一个地方供您个人使用。
 
 ## 补充此列表
---------
+
 - Open LLMs[191]: 一份可供商业使用的公开LLM列表
 - Awesome LLM[192]: Awesome-LLM：精选的大型语言模型资源列表。
 - LLaMA Cult and More[193]: 跟踪适价LLM、羊驼Cult等更多内容。
