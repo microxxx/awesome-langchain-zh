@@ -23,7 +23,7 @@ awesome-langchain 中文版
 
 ## LangChain框架
 - [LangChain](https://github.com/hwchase17/langchain)  ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social):  原始的🐍
-- [LangChain.js](https://github.com/hwchase17/langchainjsjs)  ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjsjs?style=social): js版本的兄弟✨
+- [LangChain.js](https://github.com/hwchase17/langchainjs)  ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social): js版本的兄弟✨
 - [概念](https://docs.langchain.com/docs/): Langchain概念文档
 - [Twitter账户](https://twitter.com/LangChainAI): 关注以获取最新更新
 - [Youtube频道](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)
