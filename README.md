@@ -100,7 +100,7 @@ awesome-langchain 中文版
 
 
 ### 模板
-- [AI](https://github.com/vercel-labs/ai): ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)   采用 React, Svelte, and Vue, 等技术 Vercel template ，优先支持 LangChain 。
+- [AI](https://github.com/vercel-labs/ai) ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social) :  采用 React, Svelte, and Vue, 等技术 Vercel template ，优先支持 LangChain 。
 - [create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social): 基于 t3 ，适合 Langchain 的模板，用于构建类型安全，全栈，LLM 动力的带有 Nextjs 和 Prisma 的网络应用程序
 - [LangChain.js LLM Template](https://github.com/Conner1115/LangChain.js-LLM-Template) ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social): LangChain LLM 模板，可以让你训练你自己的定制 AI LLM 模型。
 - [Streamlit Template](https://github.com/hwchase17/langchain-streamlit-template) ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social): 如何在 Streamlit 上部署 LangChain 的模板
@@ -162,7 +162,7 @@ awesome-langchain 中文版
 - [WingmanAI](https://github.com/e-johnstonn/wingmanAI) ![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/wingmanAI?style=social): 用于与系统和麦克风音频的实时转录进行交互的工具
 - [TutorGPT](https://github.com/plastic-labs/tutor-gpt) ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social): 用于辅导任务的动态元提示工具。
 - [Cheshire Cat](https://github.com/cheshire-cat-ai/core) ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social): 具有即用型聊天集成和插件开发平台的自定义 AGI 机器人。
-- [Got Chaat Bot](https://github.com/parker84/GoT-chat-bot) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social): 用于创建权力的游戏聊天机器人的仓库（例如:和 Tyrion Lannister 对话）
+- [Got Chat Bot](https://github.com/parker84/GoT-chat-bot) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social): 用于创建权力的游戏聊天机器人的仓库（例如:和 Tyrion Lannister 对话）
 - [Dialoqbase](https://github.com/n4ze3m/dialoqbase) ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social): 允许你用自己的知识库创建自定义聊天机器人的网页应用
 - [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI 是由 LangChain 驱动的终极应用，它可以帮助你在 CSV 文件中发现隐藏的洞察。
 - [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social): 用 ChatGPT 自动生成 MindMap
