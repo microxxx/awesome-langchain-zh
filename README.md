@@ -80,6 +80,8 @@ awesome-langchain 中文版
     - 添加对可选参数的支持
     - 通过将参数绑定到一个类，轻松地在提示之间共享参数
     - 这是一个非官方的附加到langchain库的插件，它并不试图竞争，只是试图使其使用更加容易。这里的许多想法都是完全主观的。
+- [FastAPI + Chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma) ![GitHub Repo stars](https://img.shields.io/github/stars/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma?style=social): 一个采用fastapi,langchain,chroma 的chatgpt插件 
+- [AilingBot](https://github.com/ericzhang-cn/ailingbot) ![GitHub Repo stars](https://img.shields.io/github/stars/ericzhang-cn/ailingbot?style=social): 一个基于langchain的AI聊天机器人，可以集成的im如slack,企业微信,飞书,钉钉
 
 ### 代理
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social): 实现了与Colossal-AI项目驱动的LLM与RLHF的整合
@@ -97,6 +99,11 @@ awesome-langchain 中文版
 - [ix](https://github.com/kreneskyp/ix) ![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social): 自主GPT-4代理平台
 - [DuetGPT](https://github.com/kristoferlund/duet-gpt) ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social): 一个半自主的对话式开发助手，AI配对编程，无需复制粘贴。
 - [Multi-Modal LangChain agents in Production](https://github.com/steamship-packages/langchain-agent-production-starter)  ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social): 在telegram 上使用langchain代理
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social): demogpt 基于langchain采用ToT的思想让你用prompt快速创建应用原型。
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social):  一个自动化AI代理的框架
+- [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot) ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social): 一个回答人力问题的自动化代理
+- [BlockAGI](https://github.com/blockpipe/blockagi) ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social): BlockAGI 可以针对特定领域进行研究，并输出详细的叙述性报告来展示其研究结果。  
+
 
 
 ### 模板
@@ -125,6 +132,9 @@ awesome-langchain 中文版
 - [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social): 一款全栈应用，将任何文档转化为智能聊天机器人，具有优雅的用户界面和更简单的工作区管理方式。
 - [DocNavigator](https://github.com/vgulerianb/DocNavigator) ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social): 使用GPT改进你的产品文档和网站
 - [ChatFiles](https://github.com/guangzhengli/ChatFiles) ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social) :上传你的文档，直接聊天～ Powered by GPT / Embedding / TS / NextJS.
+- [DataChad](https://github.com/gustavz/DataChad) ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social): 一个可以让你和任何数据沟通的 streamlit 应用，支持openai和GPT4ALL的模型 
+- [Second Brain AI Agent](https://github.com/flepied/second-brain-agent) [GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social): 一个基于OpenAI and ChromaDB  的streamlit 应用基于支持直接和你的笔记进行对话。 
+
 
   
 ### 其他聊天机器人
@@ -136,7 +146,7 @@ awesome-langchain 中文版
 - [Chat LangchainJS](https://github.com/sullivan-sean/chat-langchainjs) ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social): Chat Langchain 的 NextJS 版本
 - [Doc Search](https://github.com/namuan/dr-doc-search) ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social): 与书籍对话 - 使用 GPT-3 构建
 - [Fact Checker](https://github.com/jagilley/fact-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social): 使用 langchain 核实 LLM 输出的事实
-- [MM ReAct](https://github.com/microsoft/MM-REACT) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MM-REACT?style=social): 多模态 ReAct 应用程序
+- [MM ReAct](https://github.com/microsoft/MM-REACT) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MM-REACT?style=social): 基于ReAct模型的多模态  应用程序
 - [QABot](https://github.com/hardbyte/qabot) ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social): 使用 langchain 和 openai 通过自然语言查询查询本地或远程文件或数据库
 - [GPT Automator](https://github.com/chidiwilliams/GPT-Automator) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/GPT-Automator?style=social): 你的语音控制 Mac 助手.
 - [Teams LangchainJS](https://github.com/SidU/teams-langchain-js) ![GitHub Repo stars](https://img.shields.io/github/stars/SidU/teams-langchain-js?style=social): 展示 LangChainJS 与 Teams / Bot Framework bots 的演示
@@ -167,11 +177,11 @@ awesome-langchain 中文版
 - [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI 是由 LangChain 驱动的终极应用，它可以帮助你在 CSV 文件中发现隐藏的洞察。
 - [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social): 用 ChatGPT 自动生成 MindMap
 - [Robby-Chatbot](https://github.com/yvann-hub/Robby-chatbot)  ![GitHub Repo stars](https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social): 采用 Langchain🦜 ，OpenAI , Streamlit ⚡，直接和 CSV, PDF, TXT files 📄 and YTB videos 🎥 聊天
-- [Twitter Agent](https://github.com/ahmedbesbes/twitter-agent/) ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social): 抓取twitter内容，并和twitter内容进行聊天
 - [AI Chatbot](https://github.com/vercel-labs/ai-chatbot) ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social): 这是一个由Vercel Labs构建的功能齐全、可定制的Next.js AI聊天机器人。 
 - [Instrukt](https://github.com/blob42/Instrukt) ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social): 这是一个完整的AI环境，可以在终端中使用。您可以在其中构建、测试和指导智能体。
 - [OpenChat](https://github.com/openchatai/OpenChat/)  ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social): LLMs 定制机器人控制台。
-
+- [Twitter Agent](https://github.com/ahmedbesbes/twitter-agent/) ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social): 抓取twitter内容，并和twitter内容进行聊天
+- [GPT Migrate](https://github.com/0xpayne/gpt-migrate)  ![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate)?style=social): 帮你把代码从一个语言或一个框架迁移到另外一个
 
 ## 学习
 
@@ -222,6 +232,9 @@ awesome-langchain 中文版
 - [Langchain 解码](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain/)
 - [使用 Python 和 Langchain 在本地实现 GPT4All](https://medium.datadriveninvestor.com/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af)
 - [用 LangChain 让你的 GDrive 拥有 GPT 功能](https://www.haihai.ai/gpt-gdrive/)
+- [一个构建langchain应用的方法](https://wyh.life/article/2023/07/02/llm-app-development)
+- [构建一个hr代理](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
+
 
 ## 替代品
 
@@ -253,6 +266,14 @@ awesome-langchain 中文版
 - [LangChain4j](https://github.com/langchain4j/langchain4j) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social): 用于java的LangChain
 - [OpenLLM](https://github.com/bentoml/OpenLLM)  ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social):  OpenLLM是一个用于在生产环境中操作大型语言模型（LLM）的开放平台。使用OpenLLM，您可以轻松地微调、服务、部署和监控任何LLM。
 - [FlagAI](https://github.com/FlagAI-Open/FlagAI)   ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social): FlagAI是一个快速、易于使用和可扩展的大型模型工具包。
+- [AI.JSX](https://github.com/fixie-ai/ai-jsx) ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social): 一个js 的Ai应用框架
+- [Outlines](https://github.com/normal-computing/outlines) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social): 生成式模型编程 (Python) 
+- [AI Utils](https://github.com/lgrammel/ai-utils.js) ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social): 一个TS的AI应用框架
+- [MetaGPT](https://github.com/geekan/MetaGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social): 一个多代理的元编程框架 :给一行需求，生成prd,设计图，任务列表和代码库以及上线发布方式 
+- [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer):  一个gpt 自动写代码工具
+- [Hyv](https://github.com/failfa-st/hyv) ![GitHub Repo stars](https://img.shields.io/github/stars/failfa-st/hyv?style=social):  node的 AI应用框架 
+
+
 ## 补充
 
 - [Open LLMs](https://github.com/eugeneyan/open-llms) ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social): 一份可供商业使用的公开LLM列表
