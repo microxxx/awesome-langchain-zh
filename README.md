@@ -181,7 +181,7 @@ awesome-langchain 中文版
 - [Instrukt](https://github.com/blob42/Instrukt) ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social): 这是一个完整的AI环境，可以在终端中使用。您可以在其中构建、测试和指导智能体。
 - [OpenChat](https://github.com/openchatai/OpenChat/)  ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social): LLMs 定制机器人控制台。
 - [Twitter Agent](https://github.com/ahmedbesbes/twitter-agent/) ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social): 抓取twitter内容，并和twitter内容进行聊天
-- [GPT Migrate](https://github.com/0xpayne/gpt-migrate)  ![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate)?style=social): 帮你把代码从一个语言或一个框架迁移到另外一个
+- [GPT Migrate](https://github.com/0xpayne/gpt-migrate)  ![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate?style=social): 帮你把代码从一个语言或一个框架迁移到另外一个
 
 ## 学习
 
