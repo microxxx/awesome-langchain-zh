@@ -79,7 +79,7 @@ langchain 其他语言的移植版本.
 - [Langchain Service](https://github.com/kyrolabs/langchain-service) ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social): 带有Qdrant向量存储和Kong网关的Langchain服务
 - [Lanarky](https://github.com/ajndkr/lanarky) ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social): 🚢 使用FastAPI快速部署生产就绪的LLM项目
 - [Dify](https://github.com/langgenius/dify) ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social): 一个API用于插件和数据集，一个界面用于提示工程和视觉操作，所有这些都用于创建强大的AI应用。
-- [FastGPT](https://github.com/c121914yu/FastGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/c121914yu/FastGPT?style=social)  :一个gpt服务,支持各种本地数据集
+- [FastGPT](https://github.com/labring/FastGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/labring/FastGPT?style=social)  :一个gpt服务,支持各种本地数据集
 - [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers) ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social) : 在cloudflare上的LangchainJS worker
 - [Chainlit](https://github.com/Chainlit/chainlit) ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social) : 在几分钟内构建Python LLM应用 ⚡️
 - [Zep](https://github.com/getzep/zep) ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social): 一个用于LLM / 聊天机器人应用的长期记忆存储
