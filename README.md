@@ -5,7 +5,7 @@ awesome-langchain 中文版
 - [awesome-langchain-zh](#awesome-langchain-zh)
   - [目录](#目录)
   - [LangChain框架](#langchain框架)
-  - [移植到其他语言](#移植到其他语言)
+  - [其他语言移植版本](#其他语言移植版本)
   - [工具](#工具)
     - [低代码](#低代码)
     - [服务](#服务)
@@ -34,7 +34,7 @@ awesome-langchain 中文版
 - [LangChainHub](https://github.com/hwchase17/langchain-hub)  ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-hub?style=social): 收集所有对于使用LangChain原始概念（如提示，链和代理）有用的工件的集合,LangChainHub的灵感来自于Hugging Face Hub，它是一个集合，包含所有对于使用LangChain原始概念（如提示，链和代理）有用的工件。这个仓库的目标是成为分享和发现高质量提示，链和代理的中心资源，这些元素结合在一起形成复杂的LLM应用。我们希望这个仓库能够开始收集提示，并期待LangChain社区能够增加这个集合。我们希望不久后能够扩展到链和代理。
 - [LangServe](https://github.com/langchain-ai/langserve) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langserve?style=social): LangServe 帮助开发者把LLM应用部署成REST API. 
 
-## 移植到其他语言
+## 其他语言移植版本
 langchain 其他语言的移植版本.
 - [Langchain Go](https://github.com/tmc/langchaingo) ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social):Golang Langchain
 - [LangchainRb](https://github.com/andreibondarev/langchainrb) ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social):Ruby Langchain
