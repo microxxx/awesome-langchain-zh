@@ -115,9 +115,9 @@ langchain 其他语言的移植版本.
 - [Multi-Modal LangChain agents in Production](https://github.com/steamship-packages/langchain-agent-production-starter)  ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social): 在telegram 上使用langchain代理
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social): demogpt 基于langchain采用ToT的思想让你用prompt快速创建应用原型。
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social):  一个自动化AI代理的框架
-
 - [BlockAGI](https://github.com/blockpipe/blockagi) ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social): BlockAGI 可以针对特定领域进行研究，并输出详细的叙述性报告来展示其研究结果。 
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance) ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social) : 这是一个有主见、可实现并发的系统。它基于数据和三方工具实现了 计划-验证-解决 的范式。
+- [Elasticsearch Agent](https://github.com/onepointconsulting/elasticsearch-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/onepointconsulting/elasticsearch-agent?style=social): 一个基于 elasticsearch,langchain,gpt4的gpt 代理
 
 
 ### 模板
@@ -152,7 +152,8 @@ langchain 其他语言的移植版本.
 - [DataChad](https://github.com/gustavz/DataChad) ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social): 一个可以让你和任何数据沟通的 streamlit 应用，支持openai和GPT4ALL的模型 
 - [Second Brain AI Agent](https://github.com/flepied/second-brain-agent) [GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social): 一个基于OpenAI and ChromaDB  的streamlit 应用基于支持直接和你的笔记进行对话。 
 - [examor](https://github.com/codeacme17/examor) ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social): 一个可以基于笔记出考试题的web应用。可以考验我们学习到了哪些。
-
+- [Repochat](https://github.com/pnkvalavala/repochat)  ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social): 可以和github仓库沟chat机器人
+- [SolidGPT](https://github.com/AI-Citizen/SolidGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social): 和代码仓库聊天，讨论需求
 
   
 ### 其他聊天机器人
@@ -206,6 +207,7 @@ langchain 其他语言的移植版本.
 - [Lobe Chat](https://github.com/lobehub/lobe-chat) ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social): 一个开源、可扩展、高性能的聊天机器人框架
 - [Funcchain](https://github.com/shroominic/funcchain) [GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social): 用python得形式写prompts
 - [PersonalityChatbot](https://github.com/btrcm00/chatbot-with-langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social): 采用 Langchain | LangSmith | MongoDB 的个性化聊天机器人. 
+- [XAgent](https://github.com/OpenBMB/XAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social): 一个可以解决复杂问题的agent
 
 ## 学习
 
@@ -312,6 +314,14 @@ langchain 其他语言的移植版本.
 - [AgentVerse](https://github.com/openbmb/agentverse) ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social):   方便搭建多代理环境的框架.
 - [Flappy](https://github.com/pleisto/flappy) ![Github Repo stars]![](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social): llm 代理sdk
 - [MemGPT](https://github.com/cpacker/MemGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social): 使llm支持无边界上下文的内存管理工具
+- [Agentlabs](https://github.com/agentlabs-inc/agentlabs) ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social): 通用的agent前端
+- [axflow](https://github.com/axflow/axflow) ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social): 用于AI开发的ts框架
+- [bondai](https://github.com/krohling/bondai) ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social): 可无缝接入应用的AI助理
+- [Chidori](https://github.com/ThousandBirdsInc/chidori) ![GitHub Repo stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social): 一个rust ,ts AI代理应用运行框架
+- [Langroid](https://github.com/langroid/langroid) ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social): 一个轻量级，可扩展的python llm 框架。
+- [Langstream](https://github.com/rogeriochaves/langstream) ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social): 一个容易学习的流式 python llm 框架
+- [Agency](https://github.com/neurocult/agency) ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social):  一个go 语言llm 框架 
+- [TaskWeaver](https://github.com/microsoft/TaskWeaver) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social): 一个无缝计划和执行数据分析任务的代码优先的框架
 
 ## 补充
 
