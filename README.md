@@ -24,8 +24,9 @@ awesome-langchain 中文版
   - [不维护](#不维护)
 
 ## LangChain框架
-- [LangChain](https://github.com/hwchase17/langchain)  ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social):  原始的🐍
-- [LangChain.js](https://github.com/hwchase17/langchainjs)  ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social): js版本的兄弟✨
+- [LangChain](https://github.com/langchain-ai/langchain)  ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social):  原始的🐍
+- [LangChain.js](https://github.com/langchain-ai/langchainjs)  ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social): js版本的兄弟✨
+- [langgraph](https://github.com/langchain-ai/langgraph)  ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social): 基于langchain 的 rag或agent框架
 - [概念](https://docs.langchain.com/docs/): Langchain概念文档
 - [Twitter账户](https://twitter.com/LangChainAI): 关注以获取最新更新
 - [Youtube频道](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)
@@ -322,6 +323,24 @@ langchain 其他语言的移植版本.
 - [Langstream](https://github.com/rogeriochaves/langstream) ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social): 一个容易学习的流式 python llm 框架
 - [Agency](https://github.com/neurocult/agency) ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social):  一个go 语言llm 框架 
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social): 一个无缝计划和执行数据分析任务的代码优先的框架
+- [MicroAgent](https://github.com/aymenfurter/microagents)  ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social): 能自行修正prompt和python的agent
+- [modelscope-agent](https://github.com/modelscope/modelscope-agent)  ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/modelscope-agent?style=social): 一个简易的多代理执行框架
+- [Casibase](https://github.com/casibase/casibase)  ![GitHub Repo stars](https://img.shields.io/github/stars/casibase/casibase?style=social): 开源RAG知识库，支持 OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Groq 的api
+- [Fructose](https://github.com/bananaml/fructose) ![GitHub Repo stars](https://img.shields.io/github/stars/bananaml/fructose?style=social): Fructose是一个基于llm的强类型接口.
+- [R2R](https://github.com/SciPhi-AI/R2R)  ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social): 快速开放rag系统的框架
+- [uAgents](https://github.com/fetchai/uAgents)  ![GitHub Repo stars](https://img.shields.io/github/stars/fetchai/uAgents?style=social): 一个轻量级多代理框架.
+- [Codel](https://github.com/semanser/codel) ![GitHub Repo stars](https://img.shields.io/github/stars/semanser/codel?style=social): ✨ 全自动化执行终端，浏览，编辑框架.
+- [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social): 采用agent的搜索聚合器
+- [Plandex](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social): 复杂任务的ai编码引擎
+- [Maestro](https://github.com/Doriandarko/maestro) ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social): 一个基于claude 多代理框架
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social): ai开发工具，可用于vscode
+- [SWE Agent](https://github.com/princeton-nlp/swe-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social): 自动执行代码，修复bug的框架.
+- [Gateway](https://github.com/Portkey-AI/gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social): 一个强大的ai网关.
+- [AgentRun](https://github.com/Jonathan-Adly/AgentRun) ![GitHub Repo stars](https://img.shields.io/github/stars/Jonathan-Adly/AgentRun?style=social): 最容易地安全执行ai生成代码的方法
+- [LLama Cpp Agent](https://github.com/Maximilian-Winter/llama-cpp-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social):  llama-cpp 代理 框架 
+- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social): 金融应用的ai代理平台
+- [Groq Ruby](https://github.com/drnic/groq-ruby) ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social): 和Groq Cloud 交互的库.
+
 
 ## 补充
 
