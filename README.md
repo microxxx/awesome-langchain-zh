@@ -1,6 +1,8 @@
 # awesome-langchain-zh
 awesome-langchain 中文版
 
+🔥🔥🔥 [企业级llm工具Llmware](https://github.com/llmware-ai/llmware)🔥🔥🔥   
+
 ## 目录
 - [awesome-langchain-zh](#awesome-langchain-zh)
   - [目录](#目录)
@@ -51,6 +53,7 @@ langchain 其他语言的移植版本.
 ### 低代码
 - [Langflow](https://github.com/logspace-ai/langflow) ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social): LangFlow是一个为LangChain设计的用户界面，使用react-flow设计，通过拖放组件和聊天框，可以轻松地进行实验和原型流程。
 - [Flowise](https://github.com/FlowiseAI/Flowise) ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social): Flowise是一个拖放用户界面，可以使用LangchainJS构建自定义的LLM流程。
+- [FlowTest](https://github.com/FlowTestAI/FlowTest)  ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social): 基于LLM的API 工作流 管理IDE工具
 
 ### 服务
 - [GPTCache](https://github.com/zilliztech/GPTCache)  ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social) : 一个用于创建LLM查询的语义缓存的库
@@ -97,6 +100,10 @@ langchain 其他语言的移植版本.
 
 - [Llama2 Embedding Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service) ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social): 基于langchain和fastapi的Llama2 embeding服务
 
+- [ChatAbstractions](https://github.com/andrewnguonly/ChatAbstractions) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social): langchain 聊天模型的工程能力演示
+- [MindSQL](https://github.com/Mindinventory/MindSQL) ![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social): 一个文本生成SQL的库
+
+
 ### 代理
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social): 实现了与Colossal-AI项目驱动的LLM与RLHF的整合
 - [AgentGPT](https://github.com/reworkd/AgentGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social): 使用Langchain和OpenAI的AI代理（Vercel / Nextjs）
@@ -119,6 +126,7 @@ langchain 其他语言的移植版本.
 - [BlockAGI](https://github.com/blockpipe/blockagi) ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social): BlockAGI 可以针对特定领域进行研究，并输出详细的叙述性报告来展示其研究结果。 
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance) ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social) : 这是一个有主见、可实现并发的系统。它基于数据和三方工具实现了 计划-验证-解决 的范式。
 - [Elasticsearch Agent](https://github.com/onepointconsulting/elasticsearch-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/onepointconsulting/elasticsearch-agent?style=social): 一个基于 elasticsearch,langchain,gpt4的gpt 代理
+- [CrewAI](https://github.com/joaomdmoura/crewai) ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social): 一个多代理AI框架
 
 
 ### 模板
@@ -138,6 +146,7 @@ langchain 其他语言的移植版本.
 - [Graphsignal](https://graphsignal.com/): 针对 AI 代理和 LLM 驱动的应用的可观察性产品。在生产中追踪，监控和调试 LangChain。
 - [Mona](https://github.com/monalabs/mona-openai) ![GitHub Repo stars](https://img.shields.io/github/stars/monalabs/mona-openai?style=social): 实时监控我们的openai使用情况
 - [Openllmetry](https://github.com/traceloop/openllmetry) ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social): 一个基于OpenTelemetry 的llm应用探测系统
+- [MindsDB](https://docs.mindsdb.com/integrations/ai-engines/langchain): 如何更容易地部署，微调模型.
 
 ## 开源项目
 
@@ -209,6 +218,8 @@ langchain 其他语言的移植版本.
 - [Funcchain](https://github.com/shroominic/funcchain) [GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social): 用python得形式写prompts
 - [PersonalityChatbot](https://github.com/btrcm00/chatbot-with-langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social): 采用 Langchain | LangSmith | MongoDB 的个性化聊天机器人. 
 - [XAgent](https://github.com/OpenBMB/XAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social): 一个可以解决复杂问题的agent
+  
+- [InkChatGPT](https://github.com/vinhnx/InkChatGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social): 一个简单的RAG聊天机器人
 
 ## 学习
 
@@ -327,7 +338,7 @@ langchain 其他语言的移植版本.
 - [modelscope-agent](https://github.com/modelscope/modelscope-agent)  ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/modelscope-agent?style=social): 一个简易的多代理执行框架
 - [Casibase](https://github.com/casibase/casibase)  ![GitHub Repo stars](https://img.shields.io/github/stars/casibase/casibase?style=social): 开源RAG知识库，支持 OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Groq 的api
 - [Fructose](https://github.com/bananaml/fructose) ![GitHub Repo stars](https://img.shields.io/github/stars/bananaml/fructose?style=social): Fructose是一个基于llm的强类型接口.
-- [R2R](https://github.com/SciPhi-AI/R2R)  ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social): 快速开放rag系统的框架
+- [R2R](https://github.com/SciPhi-AI/R2R)  ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social): 快速开发rag系统的框架
 - [uAgents](https://github.com/fetchai/uAgents)  ![GitHub Repo stars](https://img.shields.io/github/stars/fetchai/uAgents?style=social): 一个轻量级多代理框架.
 - [Codel](https://github.com/semanser/codel) ![GitHub Repo stars](https://img.shields.io/github/stars/semanser/codel?style=social): ✨ 全自动化执行终端，浏览，编辑框架.
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social): 采用agent的搜索聚合器
@@ -340,6 +351,12 @@ langchain 其他语言的移植版本.
 - [LLama Cpp Agent](https://github.com/Maximilian-Winter/llama-cpp-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social):  llama-cpp 代理 框架 
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social): 金融应用的ai代理平台
 - [Groq Ruby](https://github.com/drnic/groq-ruby) ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social): 和Groq Cloud 交互的库.
+  
+- [AgentScope](https://github.com/modelscope/agentscope) ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social): 阿里的AI匿名代理框架
+- [Memary](https://github.com/kingjulio8238/memary) ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social): 一个匿名代理的长期存储
+- [Llmware](https://github.com/llmware-ai/llmware) ![GitHub Repo stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social): 企业级的LLM开发框架，模型微调的工具。
+- [Pipecat](https://github.com/pipecat-ai/pipecat) ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social): 语音和多模态对话AI的开源框架.
+- [Phidata](https://github.com/phidatahq/phidata) ![GitHub Repo stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social): 一个构建AI助手的工具
 
 
 ## 补充
