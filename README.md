@@ -87,6 +87,7 @@ langchain 其他语言的移植版本.
 - [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers) ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social) : 在cloudflare上的LangchainJS worker
 - [Chainlit](https://github.com/Chainlit/chainlit) ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social) : 在几分钟内构建Python LLM应用 ⚡️
 - [Zep](https://github.com/getzep/zep) ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social): 一个用于LLM / 聊天机器人应用的长期记忆存储
+- [Hindsight](https://github.com/vectorize-io/hindsight) ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social): 由Vectorize开发的先进AI代理长期记忆系统，支持LangChain/LangGraph集成。开源，支持本地部署。[集成文档](https://hindsight.vectorize.io/integrations/langchain/)
 - [Langchain Decorators](https://github.com/ju-bezdek/langchain-decorators) ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social): 这是一个在LangChain上提供语法糖的库，用于编写自定义的langchain提示和链。主要原则和优点包括:
     - 更Pythonic的编写代码方式
     - 编写多行提示，不会因为缩进而打断你的代码流
