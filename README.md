@@ -147,6 +147,7 @@ langchain 其他语言的移植版本.
 - [Mona](https://github.com/monalabs/mona-openai) ![GitHub Repo stars](https://img.shields.io/github/stars/monalabs/mona-openai?style=social): 实时监控我们的openai使用情况
 - [Openllmetry](https://github.com/traceloop/openllmetry) ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social): 一个基于OpenTelemetry 的llm应用探测系统
 - [MindsDB](https://docs.mindsdb.com/integrations/ai-engines/langchain): 如何更容易地部署，微调模型.
+- [Future AGI](https://github.com/future-agi/future-agi): 开源平台，在一个反馈闭环中模拟、评估、追踪、护栏、路由和优化 LLM 和 AI 代理应用，让代理不止被监控，还能自我改进。可自托管，Apache-2.0。
 
 ## 开源项目
 
