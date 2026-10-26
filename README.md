@@ -370,3 +370,4 @@ langchain 其他语言的移植版本.
 ## 不维护
 - [LangchainUI](https://github.com/homanp/langchain-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social) : LangChain UI是一个开源的聊天AI工具包，基于LangChain构建，任何人都可以使用无代码类型的界面创建和托管聊天机器人。
 - [Yeager.ai](https://github.com/yeagerai/yeagerai-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social): Yeager.ai Agent是第一个为Langchain设计的代理创建器，旨在帮助您轻松构建、原型设计和部署AI驱动的代理。Yeager.ai Agent强调灵活性、交互性和无缝集成，是开发人员、研究人员和AI爱好者的理想工具。
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) : Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
